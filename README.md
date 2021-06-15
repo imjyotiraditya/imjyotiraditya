@@ -12,42 +12,25 @@
 </a>
 <a href="https://instagram.com/imjyotiraditya" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-
+</a>
 
 ### Glad to see you here!  
-I'm an Android Developer from Odisha, India.  
-  
-
-<br/>  
-
+I'm an Android Developer from Odisha, India.
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🌍 I'm mostly active within the **Paranoid Android Community**  
-  
-
 - 🌱 Learning all about Open Source  
-  
-
 - 💻 Lead Developer @[WaveOS](https://github.com/Wave-Project), Framework Developer @[Paranoid Android](https://github.com/AOSPA)  
-  
-
 - 💬 Ping me about AOSP, Android  
-  
-
 - ⚡️ Fun fact: I'm a huge fan of Daredevil  
-
-
+  
 </td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-
 
 </td></tr></table>  
 
@@ -98,17 +81,6 @@ I'm an Android Developer from Odisha, India.
 
 <br/>  
 
-  
-
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=imjyotiraditya&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Profile views counter](https://komarev.com/ghpvc/?username=imjyotiraditya&&style=flat-square)
