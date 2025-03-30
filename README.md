@@ -6,6 +6,4 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=imjyotiraditya&&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 
-> **Now Playing:** Othaiyadi Pathayila - Anirudh Ravichander [Kanaa (Original Motion Picture Soundtrack)]
-> 
-> [Last.fm](https://www.last.fm/music/Anirudh+Ravichander/_/Othaiyadi+Pathayila) | Updated: 2025-01-04 11:17:16 IST
+![my scrobbles](https://lastfm-recently-played.vercel.app/api?user=devpandaxda&count=3)
