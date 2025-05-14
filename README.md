@@ -1,11 +1,14 @@
-![me](assets/panda.svg)
+![Jyotiraditya Panda](https://raw.githubusercontent.com/imjyotiraditya/imjyotiraditya/main/assets/panda.svg)
 
-[![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/imjyotiraditya)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/im_jyotiraditya)
-[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyotiraditya-panda)
+### Social
+[![GitHub](https://img.shields.io/badge/imjyotiraditya-profile?style=for-the-badge&logo=github&logoColor=white&label=github&labelColor=21262d&color=6e7681)](https://github.com/imjyotiraditya)
+[![X](https://img.shields.io/badge/im__jyotiraditya-profile?style=for-the-badge&logo=x&logoColor=white&label=x&labelColor=21262d&color=000000)](https://x.com/im_jyotiraditya)
+[![LinkedIn](https://img.shields.io/badge/jyotiraditya--panda-profile?style=for-the-badge&logo=linkedin&logoColor=white&label=linkedin&labelColor=21262d&color=0A66C2)](https://linkedin.com/in/jyotiraditya-panda)
 
-![profile views](https://komarev.com/ghpvc/?username=imjyotiraditya&&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+### Stats
+[![Profile Views](https://komarev.com/ghpvc/?username=imjyotiraditya&style=for-the-badge&label=PROFILE+VIEWS&labelColor=21262d&color=238636)](https://github.com/imjyotiraditya)
 
-> **Now Playing:** Othaiyadi Pathayila - Anirudh Ravichander [Kanaa (Original Motion Picture Soundtrack)]
-> 
-> [Last.fm](https://www.last.fm/music/Anirudh+Ravichander/_/Othaiyadi+Pathayila) | Updated: 2025-01-04 11:17:16 IST
+### Music
+[![Last.fm](https://img.shields.io/badge/devpandaxda-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007)](https://www.last.fm/user/devpandaxda)
+
+![My Last.fm Activity](https://lastfm-recently-played.vercel.app/api?user=devpandaxda&count=3&width=600)
